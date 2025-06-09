@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://ajal-rp.github.io/react-weather-tailwindcss",
+  "homepage": "https://ajal-rp.github.io/react-weather-tailwindcss/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
