@@ -91,7 +91,7 @@ class App extends Component {
         <ToastContainer />
 
         <h2 className="text-3xl font-bold mb-6 text-center text-slate-700 underline">
-          Weather Dashboard
+          Today Weather
         </h2>
 
         {/* Location and Date Info */}
